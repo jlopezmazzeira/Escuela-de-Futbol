@@ -1,0 +1,97 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+h4{
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+li{
+    list-style: none;
+}
+
+p{
+    margin-bottom: 0;
+    margin-top: 0;   
+}
+
+table{
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+table, th, td {
+    border: 0px solid black;
+}
+
+ul{
+    padding: 0;
+}
+
+.col-md-6{
+    display: inline-block;
+    float: left;
+    width: 45%;
+}
+
+.col-md-12{
+    width: 100%;
+}
+
+.container {
+    padding: 40px;
+    width: 690px;
+}
+
+.element-margin-title{
+    margin-bottom: 50px;
+}
+
+.element-margin-top{
+    margin-top: 100px;
+}
+
+.element-margin-top-firms{
+    margin-top: 80px;
+}
+
+.element-padding{
+    padding: 5px !important;
+}
+
+.landscape{
+    padding: 50px;
+    width: 1070px;
+}
+
+.landscape-bill{
+    padding: 50px;
+    width: 1500px;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+.table {
+    margin-bottom: 10px;
+    max-width: 100%;
+    width: 100%;
+}
+
+.table-bordered th , .table-bordered tr, .table-bordered td{
+    border: 1px solid #000 !important;
+}
+
+.text-center{
+    text-align: center !important;
+}
+
+.text-right{
+    text-align: right !important;
+}
